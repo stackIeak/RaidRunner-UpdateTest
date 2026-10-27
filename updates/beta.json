@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "payload": "eyJibG9ja2VkX3ZlcnNpb25zIjpbXSwiY2hhbm5lbCI6ImJldGEiLCJtaW5fdXBkYXRlciI6MSwibm90ZXMiOiJUZXN0IHJlbGVhc2UgMiAoZnJvbSBHaXRIdWIpLlxuLSBUaGUgdXBkYXRlIGtlZXBzIHlvdXIgZmlsZSBuYW1lLCBmb2xkZXIgYW5kIHNldHRpbmdzLiIsIm5vdGVzX3VybCI6IiIsInByb2R1Y3QiOiJSYWlkUnVubmVyIiwicHVibGlzaGVkIjoiMjAyNi0xMC0yN1QwMzo0MjoxMloiLCJzZXF1ZW5jZSI6MSwic2hhMjU2IjoiODkxMzM4MGIyMmFhMjBjZTM3Yjc3MDhjZmMzY2MzMTdhODBhZGUyNzA0NTkwMTZiYzQxY2IyZWY0ZWViMjRiYSIsInNpemUiOjg1OTI1NDE2LCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vc3RhY2tJZWFrL1JhaWRSdW5uZXItVXBkYXRlVGVzdC9yZWxlYXNlcy9kb3dubG9hZC92MS4yLjAtdGVzdDIvUmFpZFJ1bm5lci5leGUiLCJ2ZXJzaW9uIjoiVjEuMi4wLXRlc3QyIn0=",
+  "signatures": [
+    {
+      "key": "primary",
+      "sig": "tBm+J6LE2jrBtsbc9AwJ82vVPIRA1zamD4H3WivP42LUVJ31ZwIEQ/aE9fLk+FPqEBzTufId5IE2ZquKCW/WBw=="
+    }
+  ]
+}
