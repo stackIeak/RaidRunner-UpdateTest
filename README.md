@@ -1,10 +1,9 @@
 # RaidRunner-UpdateTest
 
-**Test repository only. Do not download anything here.**
+**Test repository only. It contains nothing to download.**
 
-This repository exists only to test the automatic updater of Raid Runner against real GitHub hosting.
-It contains deliberately broken test builds (one crashes on purpose, one is modified so that its
-signature check fails). They are signed with throw-away TEST keys that real Raid Runner releases never
-trust, and they will be deleted after testing.
+This repository was used to test the automatic updater of Raid Runner against real GitHub hosting
+(October 2026). The tests are finished: the test builds and their signed test update files have been
+removed. They were signed with throw-away TEST keys that real Raid Runner releases never trust.
 
 Real releases are published only at https://github.com/stackIeak/RaidRunner-Downloads.
